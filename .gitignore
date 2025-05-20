@@ -1,0 +1,11 @@
+# Terraform-specific
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+terraform.tfvars
+.terraform.lock.hcl
+
+# OS/Editor stuff
+.DS_Store
+*.swp
